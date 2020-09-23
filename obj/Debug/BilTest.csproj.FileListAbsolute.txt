@@ -1,0 +1,6 @@
+C:\CodeProjects\BilTest\bin\Debug\BilTest.exe.config
+C:\CodeProjects\BilTest\bin\Debug\BilTest.exe
+C:\CodeProjects\BilTest\bin\Debug\BilTest.pdb
+C:\CodeProjects\BilTest\obj\Debug\BilTest.csprojAssemblyReference.cache
+C:\CodeProjects\BilTest\obj\Debug\BilTest.exe
+C:\CodeProjects\BilTest\obj\Debug\BilTest.pdb
